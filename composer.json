@@ -1,0 +1,16 @@
+{
+    "name": "olivier/ocidf-p5-blog",
+    "description": "Mon blog",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olivier arego",
+            "email": "olivier@arego.tech"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=8.0"
+    }
+}
